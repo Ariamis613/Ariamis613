@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">About me</h1>
 
-<!--
-**Ariamis613/Ariamis613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Ariamis and I'm an aspiring programmer from Bulgaria working primarily with C++.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Ariamis613&theme=gruvbox" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C++ and  Git currently working on side projects<br>🎯 Goals: Keep improving and learning more technologies and languages</p>
+
+###
+
+<h1 align="left">Skills and tools</h1>
+
+[![My Languages](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=git,github,neovim,visualstudio,vscode,linux,kali,ubuntu,windows)](https://skillicons.dev)
+
+###
