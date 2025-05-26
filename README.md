@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ariamis and I'm an aspiring programmer from Bulgaria working primarily with C++.</p>
+<h4 align="left">My name is Ariamis and I'm an aspiring programmer from Bulgaria working primarily with C++.</h4>
 
 ###
 
