@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Ariamis613&theme=gruvbox" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C++ and  Git currently working on side projects<br>🎯 Goals: Keep improving and learning more technologies and languages</p>
 
 ###
