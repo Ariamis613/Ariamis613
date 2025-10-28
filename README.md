@@ -13,6 +13,5 @@
 <h1 align="left">Skills and tools</h1>
 
 [![My Languages](https://skillicons.dev/icons?i=cpp,c,python)](https://skillicons.dev)
-[![My Technologies](https://skillicons.dev/icons?i=git,github,neovim,visualstudio,vscode,linux,kali,ubuntu,windows)](https://skillicons.dev)
 
 ###
