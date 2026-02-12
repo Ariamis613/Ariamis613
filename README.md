@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C++ and  Git currently working on side projects<br>🎯 Goals: Keep improving and learning more technologies and languages</p>
+<p align="left">📚 I'm currently learning C++ and  Git currently working on side projects<br>🎯 Goals: Keep improving and learning more technologies and languages</p>
 
 ###
 
